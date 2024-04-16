@@ -65,6 +65,7 @@ $ git clone https://github.com/k-alm/Challenge-Java
 ## 🛢️ Modelo de Banco de Dados
 ![alt img](Documentação/Imagens/Modelo_Database.jpg)
 ## 🔗 Link do pitch:
+- https://youtu.be/73gU17oIHiY
 
 ## 🛑 Listagem dos endpoints: 
 Lembrando que a rota padrão começa com <b>"/anallyzer"</b>
@@ -77,5 +78,5 @@ Lembrando que a rota padrão começa com <b>"/anallyzer"</b>
 | /campanha         | POST   | Cria uma nova campanha                                  |
 | /clientes         | POST   | Cria um novo cliente                                    |
 | /empresas         | POST   | Cria uma nova empresa                                   |
-| /campanha/{id}    | PUT    | Altera nome e descrição da campanha                     |
+| /campanha/{id}    | PATCH  | Altera nome e descrição da campanha                     |
 | /campanha/{id}    | DELETE | Deleta uma campanha                                     |
