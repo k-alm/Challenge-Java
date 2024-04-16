@@ -61,7 +61,7 @@ $ git clone https://github.com/k-alm/Challenge-Java
 #Run as -> Java Application
 ```
 ## 📊 Diagrama de Classes
-
+![alt img](Documentação/Imagens/Diagrama.jpg)
 ## 🛢️ Modelo de Banco de Dados
 ![alt img](Documentação/Imagens/Modelo_Database.jpg)
 ## 🔗 Link do pitch:
