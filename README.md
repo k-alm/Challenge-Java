@@ -63,6 +63,7 @@ $ git clone https://github.com/k-alm/Challenge-Java
 ## 📊 Diagrama de Classes
 
 ## 🛢️ Modelo de Banco de Dados
+![alt img](Documentação/Imagens/Modelo_Database.jpg)
 ## 🔗 Link do pitch:
 
 ## 🛑 Listagem dos endpoints: 
