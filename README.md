@@ -55,7 +55,7 @@ Bem-vindo ao repositório do Anallyzer, um projeto focado em análise de e-mail 
 ## 🚀 Iniciando o projeto
 ```sh
 #Clone o repositorio
-$ git clone https://github.com/k-alm/challenge-java
+$ git clone https://github.com/k-alm/Challenge-Java
 
 #Clique com o botão direito na classe ApiAnallyzerApplication
 #Run as -> Java Application
